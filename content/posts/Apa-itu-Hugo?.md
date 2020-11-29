@@ -6,6 +6,8 @@ categories:
 - Blog
 tags:
 - hugo
+subtitle: ''
+image: ''
 
 ---
 ![](/uploads/pexels-miguel-a-padrinan-1591060-1.jpg)
