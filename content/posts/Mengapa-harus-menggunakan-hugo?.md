@@ -1,9 +1,9 @@
 ---
 title: Mengapa Harus Menggunakan Hugo?
 author: Jundi
-type: tipe
+type: ''
 date: 2020-11-25T08:43:02.000+07:00
-subtitle: subtitle
+subtitle: ''
 image: "/uploads/pexels-pixabay-270360-1.jpg"
 tags:
 - hugo
