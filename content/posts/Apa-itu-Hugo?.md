@@ -8,7 +8,7 @@ tags:
 - hugo
 subtitle: ''
 image: "/uploads/pexels-miguel-a-padrinan-1591060-1.jpg"
-
+type: ''
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget turpis non dui efficitur ullamcorper. Nulla blandit, ipsum id iaculis scelerisque, quam odio commodo turpis, sit amet tempor elit dui et elit. Morbi nulla purus, ultricies vitae ante in, sodales vehicula est. Praesent dignissim suscipit est, ut porttitor lorem facilisis a. Praesent est velit, feugiat et pharetra sit amet, sollicitudin id lectus. Maecenas fermentum ut diam bibendum rutrum. Aenean sit amet vestibulum nibh, at posuere dolor. Pellentesque eget tortor nulla. Fusce tempus neque sit amet ultrices pharetra. Sed convallis semper accumsan. Mauris placerat vel ligula vitae accumsan.
 
