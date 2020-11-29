@@ -1,7 +1,7 @@
 baseURL = "https://fast-web.onrender.com"
 languageCode = "en-us"
 theme = "beautifulhugo"
-title = "My Own Website"
+title = "Static Site"
 [taxonomies]
 category = "categories"
 tag = "tags"
