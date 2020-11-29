@@ -7,7 +7,7 @@ categories:
 tags:
 - statis
 subtitle: ''
-image: ''
+image: "/uploads/pexels-torsten-dettlaff-67102-2-1.jpg"
 
 ---
 ![](/uploads/pexels-torsten-dettlaff-67102-2-1.jpg)
