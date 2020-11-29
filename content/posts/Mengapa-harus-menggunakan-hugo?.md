@@ -5,7 +5,8 @@ type: ''
 date: 2020-11-25T08:43:02.000+07:00
 subtitle: ''
 image: ''
-tags: []
+tags:
+- hugo
 
 ---
 ![](/uploads/creek.jpg)
