@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Popular Static Websites"
+theme = "beautifulhugo"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
