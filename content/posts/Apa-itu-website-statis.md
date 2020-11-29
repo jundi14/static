@@ -6,7 +6,7 @@ categories:
 - Blog
 tags:
 - statis
-subtitle: testing monial
+subtitle: ''
 image: "/uploads/pexels-torsten-dettlaff-67102-2-1.jpg"
 type: ''
 
