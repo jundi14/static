@@ -1,11 +1,14 @@
 ---
-title: "Apa Itu Website Statis"
-author: "Jundi"
-date: 2020-11-22T11:13:06+07:00
-categories: [Blog]
-tags: [statis]
-draft: false
+title: Apa Itu Website Statis
+author: Jundi
+date: 2020-11-22T11:13:06.000+07:00
+categories:
+- Blog
+tags:
+- statis
+
 ---
+![website statis](/uploads/pexels-torsten-dettlaff-67102-1.jpg "Static Website")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices nulla justo, ut rhoncus enim semper sed. Duis placerat posuere dignissim. Donec luctus ligula dui, ut egestas justo pulvinar ut. Aliquam vehicula lorem fringilla metus tempus, ut maximus leo pretium. Maecenas dictum turpis eget neque tincidunt, sit amet faucibus ante luctus. Aliquam gravida nunc vitae lectus maximus, a congue dolor suscipit. Sed at interdum nisi, at vulputate justo. Sed quam lectus, tempor ac eleifend vel, imperdiet sed mi. Mauris laoreet mi lacus, vitae faucibus metus facilisis a. Sed sollicitudin ex in nibh tristique, ut aliquam lacus feugiat. Nunc feugiat lectus et nisl fermentum, nec tristique magna feugiat. Integer sed enim lectus. Nunc nibh sapien, blandit ac tempor et, sollicitudin nec justo. Praesent maximus lacus nec odio feugiat ultrices.
 
