@@ -6,6 +6,8 @@ categories:
 - Blog
 tags:
 - statis
+subtitle: ''
+image: ''
 
 ---
 ![](/uploads/pexels-torsten-dettlaff-67102-2-1.jpg)
