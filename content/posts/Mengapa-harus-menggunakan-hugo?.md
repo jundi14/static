@@ -1,12 +1,14 @@
 ---
-title: "Mengapa Harus Menggunakan Hugo?"
-author: "Jundi"
-type: ""
-date: 2020-11-25T08:43:02+07:00
-subtitle: ""
-image: ""
+title: Mengapa Harus Menggunakan Hugo?
+author: Jundi
+type: ''
+date: 2020-11-25T08:43:02.000+07:00
+subtitle: ''
+image: ''
 tags: []
+
 ---
+![](/uploads/creek.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Aliquam eget risus porta, congue tortor at, bibendum mi.
