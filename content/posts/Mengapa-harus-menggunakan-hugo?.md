@@ -9,6 +9,8 @@ tags:
 - hugo
 
 ---
+![](/uploads/pexels-pixabay-270360-1.jpg)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Aliquam eget risus porta, congue tortor at, bibendum mi.
 In ut sem et felis elementum dictum.
