@@ -10,8 +10,6 @@ subtitle: ''
 image: "/uploads/pexels-torsten-dettlaff-67102-2-1.jpg"
 
 ---
-![](/uploads/pexels-torsten-dettlaff-67102-2-1.jpg)
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices nulla justo, ut rhoncus enim semper sed. Duis placerat posuere dignissim. Donec luctus ligula dui, ut egestas justo pulvinar ut. Aliquam vehicula lorem fringilla metus tempus, ut maximus leo pretium. Maecenas dictum turpis eget neque tincidunt, sit amet faucibus ante luctus. Aliquam gravida nunc vitae lectus maximus, a congue dolor suscipit. Sed at interdum nisi, at vulputate justo. Sed quam lectus, tempor ac eleifend vel, imperdiet sed mi. Mauris laoreet mi lacus, vitae faucibus metus facilisis a. Sed sollicitudin ex in nibh tristique, ut aliquam lacus feugiat. Nunc feugiat lectus et nisl fermentum, nec tristique magna feugiat. Integer sed enim lectus. Nunc nibh sapien, blandit ac tempor et, sollicitudin nec justo. Praesent maximus lacus nec odio feugiat ultrices.
 
 Nulla laoreet sollicitudin risus, pretium blandit erat molestie eu. Vestibulum id massa tempor, rhoncus orci eu, facilisis nisl. Nam in feugiat lacus, laoreet blandit ligula. Duis et diam euismod, tincidunt magna non, vehicula nisl. Nam egestas mattis mauris vel blandit. Integer sit amet turpis consequat, fringilla odio in, auctor turpis. Morbi dolor odio, volutpat ac urna eu, ultricies varius libero. Sed tristique, velit feugiat efficitur accumsan, nisi dolor finibus lectus, et dapibus dui velit et lacus. Sed non pretium dolor. Nulla ac pulvinar ligula. Phasellus ultrices porttitor velit in consequat. Morbi ac ipsum lectus. Curabitur vitae aliquet massa.
