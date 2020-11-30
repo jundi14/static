@@ -2,3 +2,5 @@
 label: blog
 hide_body: true
 fields: []
+pages:
+- content/contoh-halaman.md
